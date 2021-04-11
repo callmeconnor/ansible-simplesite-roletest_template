@@ -18,5 +18,7 @@ only nessessary files:
 * this README.md
 
 License: MIT
+
 Author: github account @callmeconnor
+
 Inspired by: https://github.com/itwars/k3s-ansible
