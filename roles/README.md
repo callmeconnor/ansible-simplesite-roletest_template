@@ -1,3 +1,3 @@
-#Roles
+# Roles
 
-you may clone your ansibbe roles here directly, this template folder comes with a .gitignore including only this file and ignoring everything else.
+you may clone your ansible roles here directly, this template folder comes with a .gitignore including only this file, .gitignore and ignoring everything else.
