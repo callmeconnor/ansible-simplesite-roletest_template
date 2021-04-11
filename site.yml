@@ -2,8 +2,8 @@
   gather_facts: false
   become: true
   tasks:
-- name: packages
-    package:
+    - name: packages
+      package:
       name:
         - vim
   roles:
